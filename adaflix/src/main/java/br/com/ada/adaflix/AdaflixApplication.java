@@ -14,5 +14,4 @@ public class AdaflixApplication {
 		SpringApplication.run(AdaflixApplication.class, args);
 	}
 
-
 }
